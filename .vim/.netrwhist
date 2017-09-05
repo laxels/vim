@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/axel/pd/views'
+let g:netrw_dirhist_2='/Users/axel/crowdmed-mosql/.git'
+let g:netrw_dirhist_3='/Users/axel/pd/views/partials/company'
+let g:netrw_dirhist_4='/Users/axel/britepeak/routes'
+let g:netrw_dirhist_5='/Users/axel/pixelkeet-project-tracker/.git'
+let g:netrw_dirhist_6='/Users/axel/price/assets/wtf.css'
+let g:netrw_dirhist_7='/Users/axel/priceapp/assets'
