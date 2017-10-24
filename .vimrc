@@ -16,7 +16,6 @@ if version >= 700
   set spl=en spell
   set nospell
 endif
-set mouse=a
 set number
 set ignorecase
 set smartcase
