@@ -31,3 +31,4 @@ highlight MatchParen ctermbg=4
 set nohidden
 set vb t_vb=
 cnoremap NT NERDTree
+set background=dark
