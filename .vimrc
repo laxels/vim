@@ -32,3 +32,4 @@ set nohidden
 set vb t_vb=
 cnoremap NT NERDTree
 set background=dark
+let g:jsx_ext_required = 0
