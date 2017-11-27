@@ -32,6 +32,5 @@ set nohidden
 set vb t_vb=
 cnoremap NT NERDTree
 set background=dark
-let g:solarized_termtrans=1
 colorscheme solarized8
 let g:jsx_ext_required = 0
